@@ -1,29 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Haoran Du</title>
+    <title>Tags on Haoran Du</title>
     <link>https://www.cs.mcgill.ca/~hdu10/tags/</link>
-      <atom:link href="https://www.cs.mcgill.ca/~hdu10/tags/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://www.cs.mcgill.ca/~hdu10/img/icon-192.png</url>
-      <title>Tags</title>
-      <link>https://www.cs.mcgill.ca/~hdu10/tags/</link>
-    </image>
+    <description>Recent content in Tags on Haoran Du</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Haoran Du &amp;copy; 2020</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.cs.mcgill.ca/~hdu10/tags/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>Source Themes</title>
-      <link>https://www.cs.mcgill.ca/~hdu10/tags/source-themes/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.cs.mcgill.ca/~hdu10/tags/source-themes/</guid>
+      <title>Academic</title>
+      <link>https://www.cs.mcgill.ca/~hdu10/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.cs.mcgill.ca/~hdu10/tags/academic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning</title>
       <link>https://www.cs.mcgill.ca/~hdu10/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
       <guid>https://www.cs.mcgill.ca/~hdu10/tags/deep-learning/</guid>
       <description></description>
     </item>
@@ -31,16 +33,9 @@
     <item>
       <title>Demo</title>
       <link>https://www.cs.mcgill.ca/~hdu10/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
       <guid>https://www.cs.mcgill.ca/~hdu10/tags/demo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Academic</title>
-      <link>https://www.cs.mcgill.ca/~hdu10/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.cs.mcgill.ca/~hdu10/tags/academic/</guid>
       <description></description>
     </item>
     

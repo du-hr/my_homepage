@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Demo | Haoran Du</title>
+    <title>Demo on Haoran Du</title>
     <link>https://www.cs.mcgill.ca/~hdu10/tags/demo/</link>
-      <atom:link href="https://www.cs.mcgill.ca/~hdu10/tags/demo/index.xml" rel="self" type="application/rss+xml" />
-    <description>Demo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://www.cs.mcgill.ca/~hdu10/img/icon-192.png</url>
-      <title>Demo</title>
-      <link>https://www.cs.mcgill.ca/~hdu10/tags/demo/</link>
-    </image>
+    <description>Recent content in Demo on Haoran Du</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Haoran Du &amp;copy; 2020</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.cs.mcgill.ca/~hdu10/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>External Project</title>
-      <link>https://www.cs.mcgill.ca/~hdu10/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.cs.mcgill.ca/~hdu10/project/external-project/</guid>
+      <link>https://www.cs.mcgill.ca/~hdu10/project/example-external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.cs.mcgill.ca/~hdu10/project/example-external-project/</guid>
       <description></description>
     </item>
     

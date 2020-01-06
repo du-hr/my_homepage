@@ -68,7 +68,7 @@ user_groups:
 **Research Goals:** I'm passionate about conducting research after my undergraduate study, especially about applying machine learning to impactful problems (e.g., medicine, language processing, communication system, and robotics). I am currently learning and applying some machine learning models for the vision of our [drone](https://mcgillrobotics.com/drone) designed at McGill Robotics, which I hope and believe is a small step to start with. I'm also interested in responsible and ethical issues in the research and application of AI.
 
 #### Current Study
-* U2 engineering student at [McGill University](https://www.mcgill.ca).
+* U2 engineering student at [McGill University](https://www.mcgill.ca/ece/).
 * Major in [Computer Engineering](https://mcgill.ca/engineering/files/engineering/computer_engineering.pdf).
 * Software and business member of [McGill Robotics](https://mcgillrobotics.com/), an engineering design team.
 

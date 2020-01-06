@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Haoran Du</title>
+    <link>https://www.cs.mcgill.ca/~hdu10/authors/</link>
+      <atom:link href="https://www.cs.mcgill.ca/~hdu10/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Haoran Du | 杜浩然 © 2020</copyright><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.cs.mcgill.ca/~hdu10/images/icon_hu5b447fd8bc3ebb2da38a5af1c65c4d35_25128_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>https://www.cs.mcgill.ca/~hdu10/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://www.cs.mcgill.ca/~hdu10/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cs.mcgill.ca/~hdu10/authors/admin/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Research Goals:&lt;/strong&gt; I&#39;m passionate about conducting research after my undergraduate study, especially about applying machine learning to impactful problems (e.g., medicine, language processing, communication system, and robotics). I am currently learning and applying some machine learning models for the vision of our &lt;a href=&#34;https://mcgillrobotics.com/drone&#34;&gt;drone&lt;/a&gt; designed at McGill Robotics, which I hope and believe is a small step to start with. I&#39;m also interested in responsible and ethical issues in the research and application of AI.&lt;/p&gt;
+&lt;h4 id=&#34;current-study&#34;&gt;Current Study&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;U2 engineering student at &lt;a href=&#34;https://www.mcgill.ca&#34;&gt;McGill University&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Major in &lt;a href=&#34;https://mcgill.ca/engineering/files/engineering/computer_engineering.pdf&#34;&gt;Computer Engineering&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Software and business member of &lt;a href=&#34;https://mcgillrobotics.com/&#34;&gt;McGill Robotics&lt;/a&gt;, an engineering design team.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;latest-news&#34;&gt;Latest News&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;I am working on my &lt;a href=&#34;https://www.mcgill.ca/study/2019-2020/courses/ecse-458n1&#34;&gt;Capstone Design Project&lt;/a&gt; starting 2020 winter semester!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

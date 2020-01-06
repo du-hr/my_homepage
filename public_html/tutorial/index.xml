@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses | Haoran Du</title>
+    <link>https://www.cs.mcgill.ca/~hdu10/tutorial/</link>
+      <atom:link href="https://www.cs.mcgill.ca/~hdu10/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <description>Courses</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Haoran Du | 杜浩然 © 2020</copyright>
+    <image>
+      <url>https://www.cs.mcgill.ca/~hdu10/images/icon_hu5b447fd8bc3ebb2da38a5af1c65c4d35_25128_512x512_fill_lanczos_center_2.png</url>
+      <title>Courses</title>
+      <link>https://www.cs.mcgill.ca/~hdu10/tutorial/</link>
+    </image>
+    
+  </channel>
+</rss>

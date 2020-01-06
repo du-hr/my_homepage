@@ -15,21 +15,22 @@ role: Undergraduate Student
 # Organizations/Affiliations
 organizations:
 - name: McGill University
-  url: "https://www.mcgill.ca"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Computer Eng. student @ [McGill](https://www.mcgill.ca). I am interested in research areas including intelligent robotics, machine learning, and ethics in AI research.
 
 interests:
 - Robotics
+- Computer Vision
 - AI & Robot Ethics
 - Applied Machine Learning
 
 education:
   courses:
-  - course: BEng in Computer Engineering
+  - course: BEng in Computer Engineering (Expected 2021)
     institution: McGill University
-    year: 2021
+    year:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -63,10 +64,13 @@ user_groups:
 - Researchers
 - Visitors
 ---
-**Research Goals:** Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-**Current Study:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+**Research Goals:** I'm passionate about conducting research after my undergraduate study, especially about applying machine learning to impactful problems (e.g., medicine, language processing, communication system, and robotics). I am currently learning and applying some machine learning models for the vision of our [drone](https://mcgillrobotics.com/drone) designed at McGill Robotics, which I hope and believe is a small step to start with. I'm also interested in responsible and ethical issues in the research and application of AI.
 
-## Latest News
-* First item
-* Another item
+#### Current Study
+* U2 engineering student at [McGill University](https://www.mcgill.ca).
+* Major in [Computer Engineering](https://mcgill.ca/engineering/files/engineering/computer_engineering.pdf).
+* Software and business member of [McGill Robotics](https://mcgillrobotics.com/), an engineering design team.
+
+#### Latest News
+* I am working on my [Capstone Design Project](https://www.mcgill.ca/study/2019-2020/courses/ecse-458n1) starting 2020 winter semester!

@@ -73,4 +73,4 @@ user_groups:
 * Software and business member of [McGill Robotics](https://mcgillrobotics.com/), an engineering design team.
 
 #### Latest News
-* I am working on my [Capstone Design Project](https://www.mcgill.ca/study/2019-2020/courses/ecse-458n1) starting 2020 winter semester!
+* I am working on my [Capstone Design Project](https://www.mcgill.ca/engineering/students/undergraduate/designday) starting 2020 winter semester!

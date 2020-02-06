@@ -39,7 +39,7 @@ education:
 social:
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/  # For a direct email link, use "mailto:test@example.org".
+  link: https://ca.linkedin.com/in/haoran-du-b5a1a91a2  # For a direct email link, use "mailto:test@example.org".
 - icon: envelope
   icon_pack: fas
   link: 'mailto:haoran.du@mail.mcgill.ca'  # For a direct email link, use "mailto:test@example.org".
